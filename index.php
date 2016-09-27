@@ -3,4 +3,6 @@
    for($x=10; $x>0; $x--){
       echo "this is my life";
    }
+   
+   include("home.php");
 ?>
